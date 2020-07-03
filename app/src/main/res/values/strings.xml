@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LayoutTestApp</string>
+    <string name="name">Буля Лапа</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">А это та клёвая цитата, ни к месту, зато клёвая :)
+        \n
+        \n<b>To be, or not to be, that is the question:</b>
+        \n<b>Whether \'tis nobler in the mind to suffer</b>
+        \n<b>The slings and arrows of outrageous fortune,</b>
+        \n<b>Or to take Arms against a Sea of troubles,</b>
+        \n<b>And by opposing end them.></b>
+    </string>
+    <string name="greeting_bula">Привет, Сладкая Була!
+    \n\nЭто китик для тебя :3</string>
+    <string name="final_bow">Була, целую!</string>
+    <string name="done">Done</string>
+</resources>
